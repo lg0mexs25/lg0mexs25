@@ -42,8 +42,10 @@ Levar conhecimento musical a todos os públicos, seja você iniciante, curioso o
 
 
 > # 🥁 Instrumentos Musicais
+![waal-boyss-cat](https://github.com/user-attachments/assets/d690751e-6e83-495f-88a2-ed9897d85173)
 
-Conheça os principais instrumentos e suas famílias:
+![guitarrista](https://github.com/user-attachments/assets/f0721f28-b27a-4acb-bebe-3b60989e1c2b)
+
 
 - 🎻 Cordas: violino, violão, baixo, harpa
 - 🎺 Sopro: trompete, saxofone, flauta
@@ -67,6 +69,8 @@ Algumas sugestões para ouvir:
 
   
 ![cat-cat-camera](https://github.com/user-attachments/assets/418ba8ed-2c02-4ac6-94e6-373cdc637a6e)
+
+![cat-cute-devon-rex-scrolling-cats-cell-phone-late-night-meme](https://github.com/user-attachments/assets/aeb14034-32c8-4b1f-be86-b6a60973059c)
 
  
 Se quiser bater um papo sobre música, trocar ideias ou colaborar com este projeto, você pode me encontrar por aqui:
