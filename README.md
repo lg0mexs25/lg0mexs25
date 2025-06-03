@@ -2,15 +2,16 @@
 
 Sou apaixonada por música e tecnologia!
 
-![image](https://github.com/user-attachments/assets/f5140e5d-0a06-419f-85fa-c1ed62899ffe)
+
+![american-psycho](https://github.com/user-attachments/assets/9527f5c3-85f1-426d-9425-61a384b6548e)
+
 
 
 # 🎶 Música para Todos
 
+![monkey-music](https://github.com/user-attachments/assets/d905aad6-efd1-4089-9715-ab71c5219252)
+
 Este repositório foi criado com o objetivo de compartilhar conhecimento musical de forma simples, divertida e acessível para todos!
-
-![image](https://github.com/user-attachments/assets/f5c8939f-72d7-4437-b926-514f9bb3c95b)
-
 
 ## 📚 Conteúdo
 
@@ -20,8 +21,13 @@ Este repositório foi criado com o objetivo de compartilhar conhecimento musical
 - 🎵 [Playlists Recomendadas](playlists/)
 - 🤔 [Curiosidades Musicais](curiosidades/)
 
+- 
+![music-is-my-life-kyle-broflovski](https://github.com/user-attachments/assets/b0a0f2ca-709c-4b87-b7c6-c0af9c6bdbed)
+
 
 # 🎼 Teoria Musical
+
+![music](https://github.com/user-attachments/assets/2db0f5a6-5cff-45bb-8408-16fad688e058)
 
 Aqui você encontra os conceitos fundamentais para entender como a música funciona:
 
@@ -47,11 +53,11 @@ Conheça os principais instrumentos e suas famílias:
 - 🎹 Teclas: piano, teclado, órgão
 - 🎸 Elétricos: guitarra, baixo elétrico
 
-# 🎵 Playlists Recomendadas
+ 🎵 Playlists Recomendadas
+ 
+#![song-happy](https://github.com/user-attachments/assets/ab3b38e8-d536-43d7-9c3f-bc878d76c93f)
 
 Algumas sugestões para ouvir:
-
-![image](https://github.com/user-attachments/assets/4976e823-493d-44f9-b807-9c70f6d23a3e)
 
 - Clássicos do Rock 🎸
 - MPB Essencial 🇧🇷
@@ -61,12 +67,12 @@ Algumas sugestões para ouvir:
 
 - ## 📬 Como me encontrar
 
- ![image](https://github.com/user-attachments/assets/727aa213-b9e0-471c-b604-22650f2fac5f)
+  
+![cat-cat-camera](https://github.com/user-attachments/assets/418ba8ed-2c02-4ac6-94e6-373cdc637a6e)
 
+ 
 Se quiser bater um papo sobre música, trocar ideias ou colaborar com este projeto, você pode me encontrar por aqui:
 
 - 📧 Email: lauragomes.2825.com@gmail.com 
 - 💬 Instagram:(https://instagram.com/l.g0mexs )  
-
----
 
