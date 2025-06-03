@@ -2,9 +2,15 @@
 
 Sou apaixonada por música e tecnologia!
 
+![image](https://github.com/user-attachments/assets/f5140e5d-0a06-419f-85fa-c1ed62899ffe)
+
+
 # 🎶 Música para Todos
 
 Este repositório foi criado com o objetivo de compartilhar conhecimento musical de forma simples, divertida e acessível para todos!
+
+![image](https://github.com/user-attachments/assets/f5c8939f-72d7-4437-b926-514f9bb3c95b)
+
 
 ## 📚 Conteúdo
 
@@ -45,6 +51,8 @@ Conheça os principais instrumentos e suas famílias:
 
 Algumas sugestões para ouvir:
 
+![image](https://github.com/user-attachments/assets/4976e823-493d-44f9-b807-9c70f6d23a3e)
+
 - Clássicos do Rock 🎸
 - MPB Essencial 🇧🇷
 - Jazz 🎷
@@ -52,6 +60,8 @@ Algumas sugestões para ouvir:
 - Sertanejo Raiz 🤠
 
 - ## 📬 Como me encontrar
+
+ ![image](https://github.com/user-attachments/assets/727aa213-b9e0-471c-b604-22650f2fac5f)
 
 Se quiser bater um papo sobre música, trocar ideias ou colaborar com este projeto, você pode me encontrar por aqui:
 
