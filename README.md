@@ -2,9 +2,7 @@
 
 Sou apaixonada por música e tecnologia!
 
-
-![american-psycho](https://github.com/user-attachments/assets/9527f5c3-85f1-426d-9425-61a384b6548e)
-
+![deftones](https://github.com/user-attachments/assets/d49a51f6-fdd9-4044-a539-f55d603bdee7)
 
 
 # 🎶 Música para Todos
